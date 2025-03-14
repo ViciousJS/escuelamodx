@@ -414,4 +414,7 @@ function _0x38b9() {
       }
       _0x5dadfc();
     });
+
+    // console.log("_0x5a1eaf es: " + _0x5a1eaf);
+    // console.log("_0x5d72e3 es: " + _0x5d72e3);
   })();
